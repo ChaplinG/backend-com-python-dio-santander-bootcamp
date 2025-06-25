@@ -10,8 +10,10 @@ The bootcamp's main goal is to develop skills for backend development, using Pyt
 Este Bootcamp ainda está em andamento. Segue a lista dos conteúdos que foram abordados até então:
 _This bootcamp is still in progress. Below are the topics I've already covered:_
 1. Python Introduction
-2. Version control with Git e Github
+1.1 Version control with Git e Github
+2. Operadores e Manipulação de String com Python
 
 ### Ferramentas e Tecnologias | _Tools and Technologies_
 - Python
 - Git e Github
+- VS Code
