@@ -1,6 +1,7 @@
 # Armazenam de maneira sequencial qualquer tipo de objeto; mas são IMUTÁVEIS
 # objetos podem ser acessados através de índices também, contando a partir de 0
 
+
 frutas = ("laranja", "pera", "uva",)
 #como o parênteses é utilizado pra precedência de operações, coloca-se vírgula antes de fechar os parênteses no caso da tupla
 print(frutas[0])

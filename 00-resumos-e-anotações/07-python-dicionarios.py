@@ -3,6 +3,7 @@
 # delimitado por {}, lista de chave:valor separados por vírgula
 # funciona como PILHA
 
+
 pessoa = {"nome": "Guilherme", "idade": 28}     # pode ser declarado com {}
 
 pessoa = dict(nome="Guilherme", idade = 28)     # ou usando o dict()

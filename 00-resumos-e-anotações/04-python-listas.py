@@ -2,7 +2,6 @@
 # pode-se utilizar o list, a função range ou colocando valores separados por vírgula dentro de []
 # é aplicado o conceito de PILHA
 
-
 frutas = []         #pode declarar ela vazia
 frutas = ["laranja", "maçã", "uva"]
 print(frutas[2])    #valores podem ser acessados através de índices, começando no 0

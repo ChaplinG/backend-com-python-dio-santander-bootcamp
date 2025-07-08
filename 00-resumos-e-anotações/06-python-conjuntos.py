@@ -3,7 +3,6 @@
 # pode ser declarado utilizando [] ou {}
 # funciona como FILA, e não pilha
 
-
 #---SET
 # passa uma lista pro set e ele elimina os objetos duplicados
 numeros = [1 ,2, 3, 1, 4, 5]

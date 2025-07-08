@@ -12,6 +12,7 @@ _This bootcamp is still in progress. Below are the topics I've already covered:_
 1. Python Introduction
 1.1 Version control with Git e Github
 2. Operadores e Manipulação de String com Python
+3. Estruturas de Dados e Listas com Python
 
 ### Ferramentas e Tecnologias | _Tools and Technologies_
 - Python
